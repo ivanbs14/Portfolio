@@ -108,7 +108,7 @@ export const TECH_MATRIX = [
 
 export const EXPERIENCE_TIMELINE = [
   {
-    period: "[ Jun/2025 - Present ]",
+    period: "[ Jun/2025 - Set/2025 ]",
     title: "Full-Stack Developer",
     company: "LongView Tecnologia",
     highlights: [
