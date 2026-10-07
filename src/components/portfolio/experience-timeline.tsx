@@ -6,7 +6,7 @@ import { EXPERIENCE_TIMELINE } from "@/data/portfolio";
 
 const EXPERIENCE_TIMELINE_PT = [
   {
-    period: "[ Jun/2025 - Atual ]",
+    period: "[ Jun/2025 - Set/2025 ]",
     title: "Desenvolvedor Full-Stack",
     highlights: [
       "Desenvolver funcionalidades ponta a ponta em Next.js, NestJS, TypeScript e PostgreSQL nas camadas de frontend, backend e banco de dados.",
