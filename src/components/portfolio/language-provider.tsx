@@ -113,8 +113,8 @@ const UI_TRANSLATIONS: Record<PortfolioLanguage, Record<TranslationKey, string>>
 };
 
 const RESUME_LINKS: Record<PortfolioLanguage, string> = {
-  pt: "https://docs.google.com/document/d/1fQm9mO9_41xzvaIAE4DsWCVP7ZmMEPvomO7Zx2yN978/edit?usp=sharing",
-  en: "https://drive.google.com/file/d/1--j9siz-isPL9BlAP8EiTDCVAlZuHqS0/view?usp=sharing",
+  pt: "https://drive.google.com/file/d/1ON9n6s5_xDerNeCvTL11KPdBCsUTaFwm/view?usp=sharing",
+  en: "https://drive.google.com/file/d/1pT3MXqhJD6hTc2XSop4KEXBeCprpEc77/view?usp=sharing",
 };
 
 type PortfolioLanguageContextValue = {
