@@ -6,41 +6,41 @@ import { EXPERIENCE_TIMELINE } from "@/data/portfolio";
 
 const EXPERIENCE_TIMELINE_PT = [
   {
-    period: "[ Jun/2025 - Set/2025 ]",
+    period: "[ Jun/2025 - Set/2026 ]",
     title: "Desenvolvedor Full-Stack",
     highlights: [
-      "Desenvolver funcionalidades ponta a ponta em Next.js, NestJS, TypeScript e PostgreSQL nas camadas de frontend, backend e banco de dados.",
-      "Projetar e evoluir APIs REST com padrões de resposta e tratamento de erros para melhorar consistência e manutenção.",
-      "Implementar integrações AWS com Amazon S3 e AWS Lambda para suportar automações de upload e processamento.",
-      "Construir fluxos com Azure OpenAI e OpenAI para suporte ao cliente, automação interna e extração de dados estruturados.",
+      "Desenvolvi funcionalidades ponta a ponta com Next.js, NestJS, TypeScript, PostgreSQL e MongoDB nas camadas de frontend, backend e dados.",
+      "Projetei APIs REST e melhorei performance, escalabilidade, tratamento de erros e arquitetura modular das aplicações.",
+      "Contribuí com code reviews, padrões de engenharia, pipelines de CI/CD e testes automatizados.",
+      "Implementei integrações AWS com Amazon S3 e Lambda, além de soluções com Azure OpenAI e OpenAI API para suporte, propostas, automações e extração e classificação de dados.",
     ],
   },
   {
     period: "[ Out/2024 - Mai/2025 ]",
     title: "Tech Lead | Desenvolvedor Full Stack",
     highlights: [
-      "Conduzir liderança técnica da equipe, apoiando organização de entregas e decisões arquitetônicas alinhadas aos padrões de engenharia.",
-      "Entregar funcionalidades com Next.js, NestJS e banco relacional com foco em manutenção, previsibilidade e escalabilidade.",
-      "Apoiar melhorias de CI/CD, revisões de código e boas práticas durante o ciclo de entrega de software.",
-      "Contribuir com integrações AWS para armazenamento de arquivos e rotinas automatizadas no backend.",
+      "Atuei como Tech Lead no planejamento de entregas, decisões arquiteturais e definição de padrões técnicos.",
+      "Desenvolvi funcionalidades escaláveis e de fácil manutenção com Next.js, NestJS, PostgreSQL e MongoDB.",
+      "Apoiei code reviews, boas práticas de engenharia e melhorias nos pipelines de CI/CD.",
+      "Contribuí para integrações AWS de armazenamento e automações de backend.",
     ],
   },
   {
     period: "[ Dez/2023 - Out/2024 ]",
     title: "Desenvolvedor Front-end",
     highlights: [
-      "Desenvolver interfaces responsivas com React, TypeScript, Tailwind CSS e Styled Components para entregas de frontend.",
-      "Aprimorar usabilidade e consistência visual com foco em acessibilidade e experiência do usuário.",
-      "Integrar aplicações frontend com APIs REST, colaborando no alinhamento de contratos e entrega incremental de funcionalidades.",
+      "Desenvolvi interfaces responsivas com React, TypeScript, Tailwind CSS e Styled Components, integrando dados com MongoDB.",
+      "Aprimorei a usabilidade e a consistência visual do frontend com foco em acessibilidade e experiência do usuário.",
+      "Integrei aplicações frontend a APIs REST e colaborei no alinhamento de contratos entre as camadas da aplicação.",
     ],
   },
   {
     period: "[ Jan/2023 - Dez/2023 ]",
     title: "Desenvolvedor Full Stack",
     highlights: [
-      "Desenvolver e manter funcionalidades de aplicações com React.js e Styled Components no frontend.",
-      "Implementar serviços de backend com Node.js e integrações de API para suportar funcionalidades de produto.",
-      "Utilizar Docker, GitLab CI e fluxo baseado em Git no pipeline de desenvolvimento e entrega.",
+      "Desenvolvi e mantive funcionalidades de aplicações com React.js e Styled Components.",
+      "Trabalhei em serviços de backend com Node.js, MongoDB e integrações de API.",
+      "Utilizei Docker, GitLab CI e Git no pipeline de desenvolvimento e entrega de software.",
     ],
   },
 ] as const;

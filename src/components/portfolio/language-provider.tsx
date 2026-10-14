@@ -26,7 +26,7 @@ const EN_TRANSLATIONS = {
   "hero.copied": "Copied",
   "hero.downloadLabel": "Download Resume",
   "profile.summary":
-    "Full-Stack Software Engineer with experience in end-to-end web application development using React, Next.js, NestJS, TypeScript, and PostgreSQL, working with REST APIs, AWS cloud integrations, and AI solutions with Azure OpenAI and the OpenAI API.",
+    "Full-Stack Engineer and Tech Lead experienced in scalable web applications, REST APIs, SQL and NoSQL databases, cloud infrastructure, CI/CD, and generative AI solutions with OpenAI and Azure OpenAI.",
   "profile.principle.scalableArchitecture": "Scalable architecture",
   "profile.principle.technicalLeadership": "Technical leadership",
   "profile.principle.teamCollaboration": "Team collaboration",
@@ -76,7 +76,7 @@ const UI_TRANSLATIONS: Record<PortfolioLanguage, Record<TranslationKey, string>>
     "hero.copied": "Copiado",
     "hero.downloadLabel": "Download CV",
     "profile.summary":
-      "Engenheiro de Software Full-Stack com experiência em desenvolvimento ponta a ponta de aplicações web com React, Next.js, NestJS, TypeScript e PostgreSQL, atuando com APIs REST, integrações em nuvem na AWS e soluções de IA com Azure OpenAI e OpenAI API.",
+      "Engenheiro Full-Stack e Tech Lead com experiência em aplicações web escaláveis, APIs REST, bancos SQL e NoSQL, infraestrutura em nuvem, CI/CD e soluções de IA generativa com OpenAI e Azure OpenAI.",
     "profile.principle.scalableArchitecture": "Arquitetura escalável",
     "profile.principle.technicalLeadership": "Liderança técnica",
     "profile.principle.teamCollaboration": "Colaboração em equipe",
